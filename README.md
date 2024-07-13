@@ -2,9 +2,9 @@
 
 
 # Some essential website tolls for website seo
-# [1 Localhost website chack on Internet](https://docs.srv.us/)
-# [2 Chack onpengraph image , title and description](https://www.opengraph.xyz/)
-# [3 Favicon generator](https://realfavicongenerator.net/)
+### [1 Localhost website chack on Internet](https://docs.srv.us/)
+### [2 Chack onpengraph image , title and description](https://www.opengraph.xyz/)
+### [3 Favicon generator](https://realfavicongenerator.net/)
 
 
 This is the code for my **Next.js 14 SEO tutorial on YouTube**. It uses the app router and implements various SEO best practices, including:
